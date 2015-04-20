@@ -1,7 +1,2 @@
 push file to github.com
 also
-dev edit
-haha master commit
-error
-error
-dd
